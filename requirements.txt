@@ -1,6 +1,7 @@
 tensorflow
-fastapi
-uvicorn
 pillow
 numpy
+gradio
+
+
 
